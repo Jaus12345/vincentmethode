@@ -2,10 +2,7 @@ ASFASf
 ASADFAG
 hasgfjgasf
 FEATURE
-<<<<<<< HEAD
 Nog en feature
 sdjhfgsdf
 kajsgfas
-=======
-Nog en feature
->>>>>>> feature1
+aanpassen de hele tijd
